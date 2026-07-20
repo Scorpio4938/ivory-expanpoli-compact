@@ -1,4 +1,7 @@
 name = "Ivory Expanpoli Compact Siren";
+picture = "\SCORPIO4938_\ivory-expanpoli-compact\Addons\expanpoli-patch\data\logo-256x256.paa";
+logo = "\SCORPIO4938_\ivory-expanpoli-compact\Addons\expanpoli-patch\data\logo-256x256.paa";
+logoOver = "\SCORPIO4938_\ivory-expanpoli-compact\Addons\expanpoli-patch\data\logo-256x256.paa";
 actionName = "GitHub";
 action = "https://github.com/Scorpio4938/ivory-expanpoli-compact";
 tooltip = "Expanpoli Patch — Ivory siren audio on Expanpoli vehicles";
