@@ -34,15 +34,15 @@
 // consistent.
 // ──────────────────────────────────────
 #define EXPANPOLI_LIGHTS_ON \
-    _vcl execVM "\EM_Police_Faction\scripts\CODE2_On.sqf"; \
-    _vcl execVM "\EM_Police_Faction\scripts\Lights_On.sqf"; \
+    _vcl execVM "\Expansion_Mod_Police\Vehicles\Scripts\Lightbar\CODE2_On.sqf"; \
+    _vcl execVM "\Expansion_Mod_Police\Vehicles\Scripts\Lightbar\Lights_On.sqf"; \
     _vcl setVariable ["code2", 0]; \
     _vcl setVariable ["code3", 0]; \
     _vcl setVariable ["Police_Sound", 0];
 
 #define EXPANPOLI_LIGHTS_OFF \
-    _vcl execVM "\EM_Police_Faction\scripts\CODE2_Off.sqf"; \
-    _vcl execVM "\EM_Police_Faction\scripts\Lights_Off.sqf"; \
+    _vcl execVM "\Expansion_Mod_Police\Vehicles\Scripts\Lightbar\CODE2_Off.sqf"; \
+    _vcl execVM "\Expansion_Mod_Police\Vehicles\Scripts\Lightbar\Lights_Off.sqf"; \
     _vcl setVariable ["code2", 1]; \
     _vcl setVariable ["code3", 1]; \
     _vcl setVariable ["Police_Sound", 0];
