@@ -10,15 +10,13 @@ Ports the Ivory Car Pack siren audio system onto @Expansion Mod - Police vehicle
 
 ## Controls
 
-| Key | Action |
-|---|---|
-| **R** | Siren on / off |
-| **Shift+R** | Next siren tone |
-| **T** | Lightbar on / off |
-| **F** (hold) | Horn |
-| **C** (hold) | Takedown tone |
-| **1** – **4** | Direct tone select (Wail, Yelp, Priority, HiLo) |
-| **\\** | Read Manual |
+- **R** — Siren on / off
+- **Shift+R** — Next siren tone
+- **T** — Lightbar on / off
+- **F** (hold) — Horn
+- **C** (hold) — Takedown tone
+- **1–4** — Direct tone select (Wail, Yelp, Priority, HiLo)
+- **\\** — Read Manual
 
 ## What's Patched
 
