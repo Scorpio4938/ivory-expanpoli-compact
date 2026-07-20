@@ -1,5 +1,7 @@
 # Expanpoli Patch
 
+<p align="center"><img src="logo.png" alt="Expanpoli Patch logo" width="192" height="192"></p>
+
 Ports the Ivory Car Pack siren audio system onto @Expansion Mod - Police vehicles. Supports all 17 EM_* police vehicle classes across 13 d3s model families.
 
 ## Dependencies
