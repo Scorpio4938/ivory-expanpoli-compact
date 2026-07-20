@@ -108,6 +108,31 @@ class CfgVehicles
     };
 };
 
+// ────────────────────────────────────────
+// cfgWeapons — supply missing d3s_airhorn_focus_17
+//
+// The d3s_civic_17 config references this weapon class but the
+// Expanpoli mod never defines it, causing an RPT error. We define
+// it here so the config resolves cleanly.
+// ────────────────────────────────────────
+class cfgWeapons
+{
+    class SportCarHorn;
+    class d3s_airhorn_focus_17: SportCarHorn
+    {
+        displayName = "Airhorn";
+        reloadTime = 4;
+        scope = 2;
+        drySound[] =
+        {
+            "\d3s_cars_core\sound\Horn\Horn_civ.wav",
+            1,
+            1,
+            200
+        };
+    };
+};
+
 class CfgFunctions
 {
     class expanpoli_patch
