@@ -125,8 +125,8 @@ class cfgWeapons
         scope = 2;
         drySound[] =
         {
-            "\d3s_cars_core\sound\Horn\Horn_civ.wav",
-            1,
+            "d3s_cars_core\sound\Horn\truckhorn_1.ogg",
+            5,
             1,
             200
         };
