@@ -6,7 +6,7 @@ Ports the Ivory Car Pack siren audio system onto @Expansion Mod - Police vehicle
 
 ## Dependencies
 
-- [Expansion Mod - Police](https://steamcommunity.com/workshop/filedetails/?id=)
+- [Expansion Mod - Police](https://steamcommunity.com/sharedfiles/filedetails/?id=2629127571)
 - [Ivory Car Pack](https://steamcommunity.com/workshop/filedetails/?id=1888644057)
 - [CBA](https://steamcommunity.com/workshop/filedetails/?id=450814997)
 
